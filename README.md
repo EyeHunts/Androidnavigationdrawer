@@ -1,3 +1,3 @@
 # Androidnavigationdrawer
 Android navigation Drawer
-https://tutorial.eyehunt.in/android/android-navigation-drawer-example-kotlin/
+https://tutorial.eyehunts.com/android/android-navigation-drawer-example-kotlin/
